@@ -1,5 +1,3 @@
-# MO-IT101-Group-2
-
 # **Running the Application**
 
 To run the MotorPH Payroll System:

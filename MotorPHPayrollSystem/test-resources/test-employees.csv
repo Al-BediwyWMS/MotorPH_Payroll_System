@@ -1,0 +1,3 @@
+Employee #,Last Name,First Name,Birthday,Address,Phone Number,SSS #,Philhealth #,TIN #,Pag-ibig #,Status,Position,Immediate Supervisor,Basic Salary,Rice Subsidy,Phone Allowance,Clothing Allowance,Gross Semi-monthly Rate,Hourly Rate
+1,Test,Employee,01/01/1990,"Test Address",1234567890,99-9999999-9,99-999999999-9,999-999-999-999,9999-9999-9999,Regular,Test Position,Test Supervisor,20000,1500,1000,1000,10000,113.64
+2,Test2,Employee2,02/02/1992,"Test Address 2",0987654321,88-8888888-8,88-888888888-8,888-888-888-888,8888-8888-8888,Regular,Test Position 2,Test Supervisor,25000,1500,1000,1000,12500,142.05
